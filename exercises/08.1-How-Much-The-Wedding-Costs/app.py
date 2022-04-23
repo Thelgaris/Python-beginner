@@ -8,5 +8,6 @@ elif user_input <= 200:
     price = 15000
 elif user_input > 200:
     price = 20000
+   
 
 print('Your wedding will cost '+str(price)+' dollars')
